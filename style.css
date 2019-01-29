@@ -1,0 +1,27 @@
+section h1 {
+    background-color: rgb(200, 212, 230);
+}
+
+h1 {
+    font-family: 'Archivo Black', sans-serif;
+}
+
+.summary-title {
+    background-color: bisque;
+}
+
+.education-title {
+    background-color: mintcream;
+}
+
+header {
+    text-align: center;
+}
+
+header h1:hover {
+    color: red;
+}
+
+body {
+    font-family: 'Lucida Sans';
+}
